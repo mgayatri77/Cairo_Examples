@@ -1,7 +1,7 @@
 # Cairo Documentation Solutions 
 Author : [Mohit Gayatri](https://github.com/mgayatri77). 
 
-This repository contains solution to the exercises in the [Cairo Programming Language Documentation](https://starknet.io/docs/index.html). 
+This repository contains solutions to the exercises in the [Cairo Programming Language Documentation](https://starknet.io/docs/index.html). 
 
 ## Prerequisites
 - Python version 3.6 or greater
